@@ -3,7 +3,7 @@
 
 # ### THE SPARK FOUNDATION INTERNSHIP
 # 
-# #### Name: Muhammad Rizwan Munawar
+# #### Name: Hrithik Mahato
 # 
 # #### Domain:Computer Vision & IOT
 
